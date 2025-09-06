@@ -1,0 +1,9 @@
+streamlit
+pandas
+SQLAlchemy
+sqlparser
+plotly
+requests
+python-dateutil
+python-dotenv
+openai
