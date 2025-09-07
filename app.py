@@ -1,7 +1,7 @@
 import streamlit as st
 from db import create_engine_from_uri
 from agents import SchemaAgent, QueryPlannerAgent, NL2SQLAgent, SQLExecutorAgent
-from utils import verify_user, get_role, init_audit, log_query, fetch_audit, SchemaFormatter
+from utils1 import verify_user, get_role, init_audit, log_query, fetch_audit, SchemaFormatter
 
 # ==============================
 # ⚙️ Streamlit Config

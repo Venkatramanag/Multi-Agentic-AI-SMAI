@@ -1,0 +1,4 @@
+# Ignore Python virtual environment
+smaipro/
+*.pyc
+__pycache__/
