@@ -34,7 +34,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.markdown('<div class="big-title">🚀 Intelligent Multi-Agent Data Query System</div>', unsafe_allow_html=True)
+st.markdown('<div class="big-title">🚀 Cognitive Multi-Agent System for Natural Language to Insights Automation </div>', unsafe_allow_html=True)
 st.write("Interact with databases using **natural language** — heuristics first, LLM fallback. Secure and auditable.")
 
 # Initialize audit DB

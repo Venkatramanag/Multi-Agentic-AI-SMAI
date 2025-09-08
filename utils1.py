@@ -16,9 +16,9 @@ os.makedirs(".data", exist_ok=True)
 # ======================================================
 # 🔐 Keycloak Config (adjust to your setup)
 # ======================================================
-KEYCLOAK_SERVER_URL = "http://localhost:8180"
+KEYCLOAK_SERVER_URL = "http://localhost:8080"
 REALM_NAME = "master"         # change if not using master realm
-CLIENT_ID = "myrealm"        # your Keycloak client
+CLIENT_ID = "MAI-Project"        # your Keycloak client
 CLIENT_SECRET = None          # no secret needed for public client
 
 keycloak_openid = KeycloakOpenID(
